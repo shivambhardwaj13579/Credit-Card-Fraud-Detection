@@ -1,2 +1,3 @@
 # Credit-Card-Fraud-Detection
+The abstract summarizes a summer internship focused on machine learning at The NorthCap University. It covers technical and non-technical takeaways, a credit card fraud detection project, data preprocessing, model training, and personal analysis of the experience. The program enhanced understanding of machine learning, teamwork, and problem-solving skills, with a focus on addressing real-world challenges.
 i'm unable to upload it's dataset becouse it is more than 100 megabites so this is the link for the dataset (https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
